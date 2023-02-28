@@ -1,0 +1,10 @@
+@import url("../../color.css");
+.name{
+    color: var(--primary-color);
+font-size: 1.1rem;
+}
+ 
+.sigle--testimonial p{
+    font-size: 0.8rem;
+    color: #fff ;   
+}

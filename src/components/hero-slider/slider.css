@@ -1,0 +1,19 @@
+@import url(../../color.css);
+.HeroSlider {
+    background-color: var(--body-color);
+    margin-top: 1rem;
+}
+
+.btn {
+    padding: 7px 25px;
+    border-radius: 5px;
+    background-color: var(--orange);
+    color: var(--white);
+    font-size: 0.9rem;
+    margin-top: 30px;
+}
+
+.btn:hover {
+    color: var(--orange);
+    background-color: var(--white);
+}

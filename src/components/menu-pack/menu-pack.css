@@ -1,0 +1,20 @@
+@import url("../../color.css");
+
+.filter-btn{
+    border: 1px solid var(--primary-color);
+    padding: 7px 25px;
+    background: transparent;
+    color: #fff;
+    border-radius: 5px;
+}
+  
+
+.menu--title
+{
+    color:var(--primary-color);
+}
+
+.active--btn{
+    background: var(--orange);
+
+}
