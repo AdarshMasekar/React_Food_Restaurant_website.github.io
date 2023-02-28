@@ -66,7 +66,7 @@ const Footer = () => {
                 <i class="ri-mail-line"></i> adarshmasekar@gmail.com {" "}
                 </ListGroupItem>
                 <ListGroupItem className='d-flex link--item align-items-center gap-3'>
-                <i class="ri-phone-line"></i> +91 95912 65305
+                <i class="ri-phone-line"></i> <a href="https://adarshmasekar.vercel.app/">+91 95912 65305</a>
                 </ListGroupItem>
                </ListGroup>
             </Col>
@@ -77,7 +77,8 @@ const Footer = () => {
         <Container>
             <Row>
                 <Col lg='12'>
-                    <p> copyright 2022, developed by Adarsh,All rightes are reserved</p>
+                    <p> copyright 2022, developed by <span>
+                        <a href="https://adarshmasekar.vercel.app/"> Adarsh</a></span>,All rightes are reserved</p>
                 </Col>
             </Row>
         </Container>
